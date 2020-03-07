@@ -1,0 +1,21 @@
+.spacer {
+	margin-top: 20px;
+}
+
+.hSpacer {
+	margin-left: 10px;
+}
+
+.table-hover > tbody > tr:hover > td,
+.table-hover > tbody > tr:hover > th {
+	background-color: green;
+	color: yellow;
+}
+
+.clickable{
+	cursor: pointer;
+}
+
+.alert-info{
+	color: green;
+}
