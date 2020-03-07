@@ -1,2 +1,2 @@
 # AngularJS-Demo
-Front End Demo with angularJS
+Front End Demo with AngularJS
