@@ -9,4 +9,4 @@ Simulation d'une application e-mail avec AngularJS - côté client
 - simulation d'un nouveau e-mail en utilisant la méthode CRUD
 
 # Screenshot
-![alt tag](https://github.com/handrianasolo/angularJs-tp-demo/blob/master/mockup.PNG)
+![image](https://github.com/handrianasolo/angularJs-tp-demo/blob/master/mockup.PNG)
